@@ -57,40 +57,7 @@ AUC-ROC: 0.988 .
 Pré-requisitos
 Python 3.x
 Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn, wordcloud, pycountry_convert
-Instale as dependências com o comando:
 
-bash
-Copiar
-1
-pip install pandas numpy matplotlib seaborn scikit-learn wordcloud pycountry_convert
-Estrutura do Projeto
-Copiar
-1
-2
-3
-4
-5
-├── advertising.csv          # Dataset principal
-├── main.py                  # Código principal para análise e modelagem
-├── Plano_Estrategico_5W2H.pdf # Resumo do plano estratégico
-├── Ganhos_Financeiros_Potenciais.pdf # Resumo dos ganhos financeiros
-└── Scrum_Projeto_Scoring.pdf # Detalhes do Scrum do projeto
-Execução
-Clone este repositório:
-bash
-Copiar
-1
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Navegue até o diretório do projeto:
-bash
-Copiar
-1
-cd nome-do-repositorio
-Execute o script principal:
-bash
-Copiar
-1
-python main.py
 📄 Documentação Adicional
 Plano Estratégico (5W2H) : Disponível em Plano_Estrategico_5W2H.pdf.
 Ganhos Financeiros Potenciais : Disponível em Ganhos_Financeiros_Potenciais.pdf.
