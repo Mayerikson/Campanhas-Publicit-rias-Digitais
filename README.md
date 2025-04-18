@@ -50,9 +50,13 @@ Implementado um sistema de scoring para priorizar campanhas para públicos com m
 Variáveis Mais Relevantes :
 
 Idade (Age) : Impacto positivo na probabilidade de clique.
+
 Uso Diário da Internet (Daily Internet Usage) : Impacto negativo.
+
 Renda Média (Area Income) : Impacto negativo.
+
 Tópicos de Anúncios : Alguns tópicos específicos, como "Synergized cohesive array", apresentaram maior taxa de cliques.
+
 
 Ganhos Financeiros Potenciais :
 
