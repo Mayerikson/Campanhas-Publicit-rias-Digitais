@@ -40,42 +40,37 @@ Precisão
 Recall
 3. Sistema de Scoring
 Implementado um sistema de scoring para priorizar campanhas para públicos com maior probabilidade de conversão.
+
 📈 Resultados Principais
+
 Variáveis Mais Relevantes :
+
 Idade (Age) : Impacto positivo na probabilidade de clique.
 Uso Diário da Internet (Daily Internet Usage) : Impacto negativo.
 Renda Média (Area Income) : Impacto negativo.
 Tópicos de Anúncios : Alguns tópicos específicos, como "Synergized cohesive array", apresentaram maior taxa de cliques.
+
 Ganhos Financeiros Potenciais :
+
 Redução de custos com anúncios ineficazes: R$30.000/ano .
 Aumento na taxa de conversão: R$100.000/ano .
 Otimização do ROI: R$70.000/ano .
 Acurácia do Modelo :
 Acurácia geral: 96% .
 AUC-ROC: 0.988 .
+
 🛠️ Como Executar o Projeto
+
 Pré-requisitos
 Python 3.x
 Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn, wordcloud, pycountry_convert
 
 📄 Documentação Adicional
+
 Plano Estratégico (5W2H) : Disponível em Plano_Estrategico_5W2H.pdf.
 Ganhos Financeiros Potenciais : Disponível em Ganhos_Financeiros_Potenciais.pdf.
 Scrum do Projeto : Disponível em Scrum_Projeto_Scoring.pdf.
-🤝 Contribuições
-Contribuições são bem-vindas! Siga os passos abaixo:
 
-Faça um fork deste repositório.
-Crie uma branch com sua feature ou correção:
-bash
-Copiar
-1
-git checkout -b feature/nova-feature
-Envie suas alterações:
-bash
-Copiar
-1
-git push origin feature/nova-feature
-Abra um Pull Request.
+
 📜 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
