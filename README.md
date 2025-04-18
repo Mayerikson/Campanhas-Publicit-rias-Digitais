@@ -17,9 +17,13 @@ Quantificar o impacto financeiro das otimizações propostas.
 O projeto aborda as seguintes questões críticas:
 
 Perfil Etário e Conversão : Qual a relação entre a idade do usuário e a probabilidade de clicar em anúncios?
+
 Engajamento e Conversão : Como o tempo diário gasto no site influencia as taxas de clique?
+
 Impacto Socioeconômico : De que forma o nível de renda média da região do consumidor afeta a probabilidade de clique?
+
 Comportamento Digital : Qual a relação entre o tempo médio diário de uso da internet e a probabilidade de conversão?
+
 Segmentação Estratégica : Como podemos usar padrões de uso da internet e tempo no site para criar segmentos de usuários com maior probabilidade de conversão?
 
 🔧 Metodologia
