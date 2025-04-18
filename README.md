@@ -56,11 +56,16 @@ Tópicos de Anúncios : Alguns tópicos específicos, como "Synergized cohesive 
 
 Ganhos Financeiros Potenciais :
 
-Redução de custos com anúncios ineficazes: R$30.000/ano .
-Aumento na taxa de conversão: R$100.000/ano .
-Otimização do ROI: R$70.000/ano .
+**Redução de custos com anúncios ineficazes: R$30.000/ano .**
+
+**Aumento na taxa de conversão: R$100.000/ano .**
+
+**Otimização do ROI: R$70.000/ano .**
+
 Acurácia do Modelo :
+
 Acurácia geral: 96% .
+
 AUC-ROC: 0.988 .
 
 🛠️ Como Executar o Projeto
